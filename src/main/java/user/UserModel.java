@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
+import jakarta.a
 package user;
 
 /**
@@ -10,5 +11,4 @@ package user;
  * @author alunocmc
  */
 public class UserModel {
-
 }
